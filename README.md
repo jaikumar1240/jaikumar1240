@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/jai1240"><img src="https://api.daily.dev/devcards/v2/aoClxwiCAr5prkJsYTqp3.png?type=wide&r=cny" width="652" alt="Jai Rajput's Dev Card"/></a>
 # 💫 About Me:
 🌐 Frontend Developer | Content Creator | Problem Solver
 
